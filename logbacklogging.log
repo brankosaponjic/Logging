@@ -1,0 +1,11 @@
+2021-03-18 13:04:28.393  INFO 6008 --- [main] b.l.LogbackloggingApplicationTests       : Starting LogbackloggingApplicationTests using Java 11.0.10 on DESKTOP-CE1M55R with PID 6008 (started by Branko in D:\Branko\Udemy\Bhupendra Sharma\Spring Boot  Complete Guide From Development To Deployment\LogbackLogging)
+2021-03-18 13:04:28.399  INFO 6008 --- [main] b.l.LogbackloggingApplicationTests       : No active profile set, falling back to default profiles: default
+2021-03-18 13:04:28.458 DEBUG 6008 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@c41709a
+2021-03-18 13:04:30.566  INFO 6008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-18 13:04:30.600 DEBUG 6008 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-03-18 13:04:30.785 DEBUG 6008 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2021-03-18 13:04:30.930 DEBUG 6008 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-03-18 13:04:30.960 DEBUG 6008 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-03-18 13:04:31.141  INFO 6008 --- [main] b.l.LogbackloggingApplicationTests       : Started LogbackloggingApplicationTests in 3.382 seconds (JVM running for 5.512)
+2021-03-18 13:04:31.873 DEBUG 6008 --- [SpringContextShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@c41709a, started on Thu Mar 18 13:04:28 CET 2021
+2021-03-18 13:04:31.878  INFO 6008 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
