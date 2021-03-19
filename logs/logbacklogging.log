@@ -1,0 +1,10 @@
+2021-03-19 22:31:08 - Starting LogbackloggingApplicationTests using Java 11.0.10 on DESKTOP-CE1M55R with PID 2876 (started by Branko in D:\Branko\Udemy\Bhupendra Sharma\Spring Boot  Complete Guide From Development To Deployment\LogbackLogging)
+2021-03-19 22:31:08 - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-19 22:31:08 - No active profile set, falling back to default profiles: default
+2021-03-19 22:31:09 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@5bbbdd4b
+2021-03-19 22:31:11 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2021-03-19 22:31:11 - 6 mappings in 'requestMappingHandlerMapping'
+2021-03-19 22:31:11 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2021-03-19 22:31:11 - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2021-03-19 22:31:11 - Started LogbackloggingApplicationTests in 3.005 seconds (JVM running for 5.086)
+2021-03-19 22:31:12 - Closing org.springframework.web.context.support.GenericWebApplicationContext@5bbbdd4b, started on Fri Mar 19 22:31:09 CET 2021
